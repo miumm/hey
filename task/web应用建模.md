@@ -1,4 +1,6 @@
 一 功能需求建模：
 
 1.绘制用例图
-![](http://img.bimg.126.net/photo/SOFD6wWB0BOfNaEKhsBa_Q==/3174756262320219205.jpg)
+
+
+![](http://a2.qpic.cn/psb?/V14F5g5V3LB5Gy/Pgr3lgWll.*M2Xx*susJ2ZceenvN7vfxVMKo2DS6hZA!/b/dBgBAAAAAAAA&bo=SAPdAQAAAAADB7U!&rf=viewer_4)
